@@ -25,3 +25,7 @@ end
 def using_concat(array, ary)
  array.concat(ary)
 end
+
+def using_insery(array, element)
+  
+end
